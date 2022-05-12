@@ -251,7 +251,7 @@ Alternatively, refer to the [developer instructions](#developer-instructions) fo
                                          fields in output filename template
                                          (default is "NA")
     --autonumber-start NUMBER            Specify the start value for
-                                         %(autonumber)s (default is 1)
+                                         %(autnumber)s (default is 1)
     --restrict-filenames                 Restrict filenames to only ASCII
                                          characters, and avoid "&" and spaces in
                                          filenames
